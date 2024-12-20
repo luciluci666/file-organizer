@@ -2,7 +2,7 @@
 
 ## Overview
 
-File Sorter by Extension is a simple and efficient application that organizes all files in a specified directory by moving them into folders based on their file extensions. This helps to keep your workspace neat and makes it easier to locate files quickly.
+File Organizer by Extension is a simple and efficient application that organizes all files in a specified directory by moving them into folders based on their file extensions. This helps to keep your workspace neat and makes it easier to locate files quickly.
 
 Features
 
